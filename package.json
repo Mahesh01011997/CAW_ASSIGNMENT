@@ -1,0 +1,24 @@
+{
+  "name": "caw_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "e2e.js",
+  "scripts": {
+    "test": "",
+    "cy-open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahesh01011997/CAW_ASSIGNMENT.git"
+  },
+  "author": "Mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahesh01011997/CAW_ASSIGNMENT/issues"
+  },
+  "homepage": "https://github.com/Mahesh01011997/CAW_ASSIGNMENT#readme",
+  "devDependencies": {
+    "cypress": "^10",
+    "xpath": "^0.0.34"
+  }
+}
